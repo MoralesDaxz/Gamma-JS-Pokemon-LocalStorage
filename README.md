@@ -1,2 +1,2 @@
-# Gamma-JS-24-Node
+# Gamma-JS-24-localstorage
 Javascript, localstorage, node.js
