@@ -1,2 +1,2 @@
 # Gamma-JS-24-Node
-Javascript, node.js
+Javascript, localstorage, node.js
