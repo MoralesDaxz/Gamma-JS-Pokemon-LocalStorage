@@ -1,5 +1,5 @@
 # Gamma-JS-24-Node
-Javascript, node.js
+Javascript, DOM, Api
 Ejercicio 1
 Introduce en LocalStorage 3 variables distintas (no en forma de objeto) con tu nombre, edad y ciudad de origen.
 
